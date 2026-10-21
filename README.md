@@ -1,6 +1,7 @@
 Data Structures – List, Dictionary, Set & Conditional Statements
 
 About This Assignment
+
 In this assignment, I practised using list creation, list operation/modifications, accessing list elements, dictionaries (creation, modification and access), sets (operations), and operators & conditional statements (if, elif, else) statements to check conditions in Python. 
 1.	List Creation
 •	Created age_list and name_list with five integer and string elements.
